@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PodcastPlayer</string>
+    <string name="detail_app_name">Details</string>
+    <string name="action_settings">Settings</string>
+    <string name="input_url">Ingrese la URL</string>
+    <string name="enter_url">Ingrese una URL valida</string>
+    <string name="search_by_url">BUSCAR</string>
+    <string name="action_add">Add</string>
+    <string name="rss_feed_url">RSS feed url</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="remove">Remove</string>
+    <string name="action_done">Done</string>
+    <string name="no_url_available">No url available!</string>
+</resources>
